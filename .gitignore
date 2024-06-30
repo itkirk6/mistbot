@@ -1,0 +1,4 @@
+# .gitignore
+google-sheets-credentials.json
+.env
+discordInfo.py

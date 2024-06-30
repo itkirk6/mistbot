@@ -1,0 +1,2 @@
+added column e - split how many ways?
+already added all the logic in google sheets, the program just needs to put the number in manually based on the commanbd
